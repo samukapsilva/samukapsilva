@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Samuel Pereira</h1>
-<h3 align="center">A passionate Data Engineer & AI Explorer 🚀</h3>
+<h3 align="center">A passionate Data Engineer & AI and Web3 Explorer 🚀</h3>
 
 - 🔭 I’m currently working on: **Real-time data pipelines with Azure & Databricks**
 - 🌱 I’m learning: **Databricks, PySpark, Delta Lake, Web3, Blockchain and GenAI tools**
